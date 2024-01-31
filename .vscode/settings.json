@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "commdlg.h": "c",
+    "*.rh": "c",
+    "stdio.h": "c",
+    "windows.h": "c",
+    "injector.h": "c"
+  }
+  // "C_Cpp.errorSquiggles": "disabled"
+}
