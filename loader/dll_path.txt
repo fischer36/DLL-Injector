@@ -1,1 +1,1 @@
-C:\Users\joakr\Documents\Rust projects\rust_dll\target\release\rust_dll.dll
+C:\sample_path\rust_dll.dll
